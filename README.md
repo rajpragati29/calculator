@@ -1,1 +1,1 @@
-# video-rental-system
+# video-rental-inventory-system
